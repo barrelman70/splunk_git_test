@@ -1,5 +1,5 @@
 {
-    "method": "POST",
     "file": "control",
+    "method": "POST",
     "status": "200"
 }
